@@ -1,16 +1,15 @@
-## chrome-trex-code
-
-the trex runner game extracted from chrome offline err page.
-
-see the [source](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7) from chromium
-
-
-[go and enjoy! :smile: ](http://wayou.github.io/t-rex-runner/)
+# chrome-trex-code
+the trex runner game extracted from chrome offline page.
 
 ![chrome offline game cast](assets/screenshot.gif)
 
-## Interesting Forks/In Chinese, we call it 「花样玩法」
+## Disclaimer:
+1. see the [source](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7) from chromium
 
+## Demo:
+!. http://wayou.github.io/t-rex-runner/
+
+## Other Versions:
 - [vianroyal](https://github.com/vianroyal)/[t-rex-runner](https://github.com/vianroyal/t-rex-runner) [Kumamon runner](http://vianroyal.github.io/t-rex-runner/) 
 <br>
 
@@ -40,5 +39,3 @@ see the [source](https://cs.chromium.org/chromium/src/components/neterror/resour
 <br>
 
 ![](https://user-images.githubusercontent.com/13794470/37289691-964618be-260a-11e8-8c4a-6df04d6c490d.gif)
-
-
