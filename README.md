@@ -4,10 +4,10 @@ the trex runner game extracted from chrome offline page.
 ![chrome offline game cast](assets/screenshot.gif)
 
 ## Disclaimer:
-1. see the [source](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7) from chromium
+1. SEE THE [SOURCE](https://cs.chromium.org/chromium/src/components/neterror/resources/offline.js?q=t-rex+package:%5Echromium$&dr=C&l=7) from chromium
 
 ## Demo:
-!. http://wayou.github.io/t-rex-runner/
+1. http://wayou.github.io/t-rex-runner/
 
 ## Other Versions:
 - [vianroyal](https://github.com/vianroyal)/[t-rex-runner](https://github.com/vianroyal/t-rex-runner) [Kumamon runner](http://vianroyal.github.io/t-rex-runner/) 
